@@ -1,3 +1,3 @@
-# forkify Project
+# Cookie Project
 
 Recipe application with custom recipe uploads.
