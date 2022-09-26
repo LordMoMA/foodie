@@ -1,3 +1,3 @@
-# Cookie Project
+# Foodie Project
 
 Recipe application with custom recipe uploads.
