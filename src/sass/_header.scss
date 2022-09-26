@@ -6,8 +6,12 @@
   justify-content: space-between;
 
   &__logo {
-    margin-left: 4rem;
-    height: 4.6rem;
+    height: 260px;
+    width: 260px;
+    // height: 140px;
+    // text-align: center;
+    margin-left: -50px;
+    margin-top: 15px;
     display: block;
   }
 }
