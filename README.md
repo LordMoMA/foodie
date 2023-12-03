@@ -24,4 +24,5 @@ https://spoonacular.com/application/frontend/downloads/spoonacular-api-slides.pd
 ## API References:
 https://spoonacular.com/food-api/docs
 
-## [API KEY Generation](https://forkify-api.herokuapp.com/v2)
+## API KEY Generation:
+https://forkify-api.herokuapp.com/v2
